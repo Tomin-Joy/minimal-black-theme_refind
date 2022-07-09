@@ -7,7 +7,7 @@ A simplistic clean and minimal theme for rEFInd
 
 ### Installation:
 
-1. Clone git repository and copy directory ```minimal-black-theme``` $HOME directory.
+1. Clone git repository and extract  ```minimal-black-theme.zip```  and copy to refind theme directory.
 
    ```
    git clone https://github.com/Tomin-Joy/minimal-black-theme_refind.git
