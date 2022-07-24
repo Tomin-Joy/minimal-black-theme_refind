@@ -2,7 +2,7 @@
 A simplistic clean and minimal theme for rEFInd
 
 
-![Screenshot 01]()
+![Screenshot 01](./screenshot.png)
 
 
 ### Installation:
